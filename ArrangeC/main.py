@@ -115,7 +115,6 @@ def create_gui():
 
 
 if __name__ == "__main__":
-    # 替换为你想要打印的目录路径
     directory_name = create_gui()
     '''directory = "./"+ directory_name'''
     if directory_name:
