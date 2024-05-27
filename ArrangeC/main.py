@@ -62,7 +62,6 @@ spark = ChatSparkLLM(
     streaming=False,
 )
 def check(name):
-    # 模拟检查器函数
     print(f"Checking: {name}")
     messages = [ChatMessage(
             role="user",
