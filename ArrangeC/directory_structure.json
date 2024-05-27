@@ -1,0 +1,9 @@
+{
+    "name": "PerfLogs",
+    "children": [
+        {
+            "name": "Admin",
+            "children": []
+        }
+    ]
+}
